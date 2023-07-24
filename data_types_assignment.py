@@ -2,7 +2,7 @@
 from functools import reduce
 from operator import mul
 
-# 6B4 BACKEND QUIZ
+# 6B4 BACKEND QUIZ on DATA TYPES
 
 # 1. Write a Python script to add a key to a dictionary.
 
